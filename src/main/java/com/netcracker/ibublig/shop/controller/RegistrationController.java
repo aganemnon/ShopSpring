@@ -3,7 +3,6 @@ package com.netcracker.ibublig.shop.controller;
 import com.netcracker.ibublig.shop.domain.Role;
 import com.netcracker.ibublig.shop.domain.User;
 import com.netcracker.ibublig.shop.repos.UserRepo;
-import org.hibernate.mapping.Collection;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
